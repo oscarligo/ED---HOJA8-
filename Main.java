@@ -39,7 +39,8 @@ public class Main {
                     System.out.println("Saliendo...");
                     scanner.close();
     
-                    return; // Sale del programa
+                    return; 
+                    
                 default:
                     System.out.println("Opción inválida. Intenta de nuevo.");
             }
