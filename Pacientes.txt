@@ -1,0 +1,7 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis,A
+Lorenzo Toledo, chikunguya,E
+Carmen Sarmientos, dolores de parto,B
+Oscar Rompich, dolores de parto, D 
+Jose Ramirez, apendicitis,A
+Alfonso Ramirez, apendicitis,A
